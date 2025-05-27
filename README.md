@@ -1,5 +1,5 @@
 
-# <center> Hey, I'm Kevin! </center>
+<center><h1> Hey, I'm Kevin! </h1></center>
 
 - I'm a developer with a passion for active learning about tech and software 💻 
 
